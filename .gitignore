@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Dataset
+data/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# Python environment files
+.env
+
+# VS Code settings (optional)
+.vscode/

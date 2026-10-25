@@ -1,0 +1,16 @@
+{
+  "experiment_name": "tinystories_data_more_data",
+  "data_path": "data/TinyStories-train.txt",
+  "max_chars": 200000,
+  "n_embd": 64,
+  "num_heads": 4,
+  "num_layers": 3,
+  "block_size": 128,
+  "dropout": 0.1,
+  "batch_size": 10,
+  "learning_rate": 0.0003,
+  "num_epochs": 10,
+  "steps_per_epoch": 50,
+  "val_every": 1,
+  "seed": 42
+}
